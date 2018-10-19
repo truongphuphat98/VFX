@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 256e3752ba321be46b62b123f732a264
+timeCreated: 1512052965
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Spilt Ink
+  fontNames:
+  - Spilt Ink
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
